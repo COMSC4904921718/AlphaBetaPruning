@@ -1,0 +1,5 @@
+Alpha - Best already explored option along path to root for a max node.
+Beta - Best already explored option along path to root for a min node.
+Leaf  - Bottom most node of a tree.
+MAX - Upward pointing triangle. Always takes the highest value of all its children.
+MIN - Downward pointing triangle. Always takes the lowest value of all its children.
